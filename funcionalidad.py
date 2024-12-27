@@ -171,3 +171,23 @@ def solucion_archivo():
 
 if __name__ == "__main__":
     solucion_archivo()
+# - generar_matriz_cuadrada: Crea una matriz cuadrada de ceros de tamaño n x n.
+# - es_cuadrada: Verifica si una matriz es cuadrada.
+# - encontrar_unos: Encuentra todas las posiciones con valor 1 en una matriz.
+# - calcular_ganancia: Calcula la suma de una vecindad 3x3 en torno a una posición dada.
+# - es_contiguo: Verifica si una posición está contigua a las ubicaciones existentes.
+# - generar_matriz_ganancias: Genera una matriz de ganancias según restricciones y valores mínimos.
+# - ganancia_cotigua: Calcula la suma de una vecindad 3x3 para una posición específica.
+# - ganancia: Calcula la ganancia total combinada para las ubicaciones existentes.
+# - formatear_posiciones: Convierte una lista de posiciones en una cadena formateada.
+# - actualizar_matriz_salida: Marca nuevas sedes en la matriz de salida.
+# - generar_matriz: Genera una matriz de tamaño n x m con valores aleatorios.
+# - sumar_matrices: Suma dos matrices de igual tamaño.
+# - restar_matrices: Resta dos matrices de igual tamaño.
+# - multiplicar_matrices: Multiplica dos matrices compatibles.
+# - transponer_matriz: Transpone una matriz.
+# - calcular_determinante: Calcula el determinante de una matriz cuadrada.
+# - invertir_matriz: Calcula la inversa de una matriz cuadrada.
+# - resolver_sistema_ecuaciones: Resuelve un sistema de ecuaciones lineales.
+# - calcular_autovalores: Calcula los autovalores de una matriz cuadrada.
+# - calcular_autovectores: Calcula los autovectores de una matriz cuadrada.
